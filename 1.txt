@@ -2,4 +2,4 @@ cambiando el código
 
 cambio rama nueva
 
-segundo cabio en rama master
+segundo cambio en rama
